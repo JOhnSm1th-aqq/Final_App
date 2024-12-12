@@ -6,10 +6,10 @@
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html 
 * 
 * Assignment: 2247 / 6 
-* Student Name:  Abhi Mansukhbhai Chakrani
-* Student Email: amchakrani@myseneca.ca 
+* Student Name:  Kriss Kapadia
+* Student Email: kakapadia@myseneca.ca 
 * Course/Section: WEB422/ZAA 
-* Vercel URL:  final-vl9t.vercel.app
+* Vercel URL:  https://final-app-rose.vercel.app/
 * 
 *****************************************************************************/ 
 import { Container, Row, Col, Image } from 'react-bootstrap';
